@@ -1,0 +1,42 @@
+.todo-main-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  background-color: #152431;
+  height: 639px;
+  max-width: 524px;
+  width: 100%;
+  border: 1px #8FA8C11A;
+  box-shadow:15px 10px #0000004D;
+  
+}
+.todo-main-container .heading {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+  color: #8FA8C1;
+}
+.todo-main-container .todo-input-section  {
+  display: flex;
+  justify-content: center;
+  padding:  25px;
+ 
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 524px;
+  width :100%;
+}
+.todo-main-container .todo-list-section  {
+  display: flex;
+  justify-content: center;
+  padding-top:  25px;
+  padding-bottom: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 524px;
+  width :100%;
+}
+

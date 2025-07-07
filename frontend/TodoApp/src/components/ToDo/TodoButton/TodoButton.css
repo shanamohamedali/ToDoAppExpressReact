@@ -1,0 +1,23 @@
+.todo-button-container{
+    margin-left: 5px;
+    width: 30%;
+   
+}
+.todo-button-container button{
+    background-color:#0C5488;
+    padding: 10px 8px;
+    color:#8FA8C1;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+
+.todo-button-container button:hover{
+    background-color: #8FA8C1;
+    color: #0C5488;
+    font-size: 14px;
+    line-height: 14.06px;
+    font-weight: 500px;
+}
+

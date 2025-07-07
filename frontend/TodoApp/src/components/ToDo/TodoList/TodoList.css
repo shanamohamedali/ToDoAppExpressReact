@@ -1,0 +1,33 @@
+
+.todo-list-containter{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+
+}
+
+.todo-list-containter ul li{
+  list-style: none;
+  justify-content: start;
+  width: 80%;
+}
+  
+.todo-list-containter .todo-item {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px dashed #8FA8C14D;
+  width: 100%;
+  padding: 20px 30px 20px 30px;
+
+}
+ 
+
+.todo-list-containter .todo-item button{
+  justify-content: end;
+  text-align: end;
+  background:transparent;
+  filter: invert(1);
+ 
+
+
+}

@@ -1,0 +1,22 @@
+.todo-input-container {
+  display: flex;
+  width: 80%;
+}
+
+.todo-input-container input {
+  padding: 10px 15px;
+  background: transparent;
+  border: 1px solid #8FA8C14D;
+  border-radius: 5px;
+  width: 100%;
+  color: white;
+  line-height: 16px;
+  font-weight: 400px;
+  font-size: 14px;
+ 
+}
+.todo-input-container input::placeholder{
+  color: #8FA8C1;
+
+  
+}
